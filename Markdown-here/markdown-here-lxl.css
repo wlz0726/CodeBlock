@@ -7,7 +7,8 @@ em, i{color:#009688;}
 big{font-size:22px;  color:#009688;  font-weight: bold;  vertical-align: middle;  border-bottom:1px solid #eee;}
 small{font-size:12px;  line-height:22px;}
 hr{border-bottom:0.05em dotted #eee;  margin:10px auto;}
-p{margin:15px 5px!important;}
+# p{margin:15px 5px!important;}
+p{margin-left:15px; margin-right:20px; margin-top:10px; margin-bottom:25px}
 table, pre, dl, blockquote, q, ul, ol{margin:10px 5px;}
 ul, ol{padding-left:10px;}
 li{margin:5px;}
